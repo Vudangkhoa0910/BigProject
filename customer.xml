@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customers>
+    <customer>
+        <id>1</id>
+        <cc>0</cc>
+        <name>Dang Khoa</name>
+        <roomType>10</roomType>
+        <price>10</price>
+    </customer>
+    <customer>
+        <id>2</id>
+        <cc>0</cc>
+        <name>Khoa</name>
+        <roomType>10</roomType>
+        <price>10</price>
+    </customer>
+    <customer>
+        <id>3</id>
+        <cc>0</cc>
+        <name>Khoa</name>
+        <roomType>20</roomType>
+        <price>20</price>
+    </customer>
+    <customer>
+        <id>4</id>
+        <cc>0</cc>
+        <name>Dai Bang</name>
+        <roomType>Phòng Đôi</roomType>
+        <price>12</price>
+    </customer>
+    <customer>
+        <id>5</id>
+        <cc>10</cc>
+        <name>Vu Đăng Khoa</name>
+        <roomType>10</roomType>
+        <price>100</price>
+    </customer>
+    <customer>
+        <id>6</id>
+        <cc>2201</cc>
+        <name>pham  hanh</name>
+        <roomType>Phòng VIP</roomType>
+        <price>12</price>
+    </customer>
+    <customer>
+        <id>9</id>
+        <cc>12032</cc>
+        <name>manh</name>
+        <checkin>00:00</checkin>
+        <checkout>05:05</checkout>
+        <roomType>Phòng Đôi</roomType>
+        <price>132</price>
+    </customer>
+    <customer>
+        <id>11</id>
+        <cc>2343</cc>
+        <name>hahn</name>
+        <checkin>03:06</checkin>
+        <checkout>00:00</checkout>
+        <roomType>Phòng Đôi</roomType>
+        <price>19</price>
+    </customer>
+    <customer>
+        <id>12</id>
+        <cc>0</cc>
+        <name>Dai Bang</name>
+        <checkin>00:00</checkin>
+        <checkout>05:05</checkout>
+        <roomType>Phòng Đôi</roomType>
+        <price>132</price>
+    </customer>
+    <customer>
+        <id>12</id>
+        <cc>2343</cc>
+        <name>hahn</name>
+        <checkin>00:00</checkin>
+        <checkout>05:05</checkout>
+        <roomType>Phòng Đôi</roomType>
+        <price>132</price>
+    </customer>
+</customers>
